@@ -1,4 +1,4 @@
-class Pawn
+export default class Pawn
 {
   constructor(x,y,img)
   {
