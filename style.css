@@ -7,5 +7,11 @@
 body{
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  background: #e97b7b;
+  background: blue;
+}
+
+div{
+  background-color: red;
+  height: 10px;
+  width: 100px;
 }
